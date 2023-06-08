@@ -19,9 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - enabled lls
 - Installed mySQL
-- Item 3
-- Item 4
-- Item 5
+- re named upload folder to osticket and edit permissions. Verify osticket working and login.
 
 <h2>Installation Steps</h2>
 
@@ -43,14 +41,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/zRZMtfG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installing mySQL and setting it up.
+  
+<p>
+<img src="https://i.imgur.com/javrveK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installing mySQL and c++ redistributable to set up program correctly.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/emCBuRb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+<p>
+<img src="https://i.imgur.com/SaeawNH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/VxTPLkx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+    <p>
+<img src="https://i.imgur.com/1dpXxAL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+re named upload folder to osticket and edit permissions. Verify osticket working and login. 
 </p>
 <br />
