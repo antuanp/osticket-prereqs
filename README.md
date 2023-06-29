@@ -24,12 +24,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/31Zbvzg.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3Jei2Fe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
   <p>
-<img src="https://i.imgur.com/SaeawNH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qkPbVTe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -38,12 +38,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/zRZMtfG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pAQ2oub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
 <p>
-<img src="https://i.imgur.com/javrveK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5RRpR1I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Installing mySQL and c++ redistributable to set up program correctly.
@@ -51,20 +51,11 @@ Installing mySQL and c++ redistributable to set up program correctly.
 <br />
 
 <p>
-<img src="https://i.imgur.com/emCBuRb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rvTL0WF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
-<p>
-<img src="https://i.imgur.com/SaeawNH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  <p>
-<img src="https://i.imgur.com/VxTPLkx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-    <p>
-<img src="https://i.imgur.com/1dpXxAL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pevD8ag.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 re named upload folder to osticket and edit permissions. Verify osticket working and login. 
